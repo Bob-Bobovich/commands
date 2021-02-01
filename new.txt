@@ -1,1 +1,2 @@
 global data
+take only this row
